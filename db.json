@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "account": [
+    { "id": 1, "name": "Thomas Jefferson", "make":"Land Rover Ecallade", "year":"2014"},
+    { "id": 2, "name": "William Jackson", "make":"Mercedes E300", "year":"2016"},
+    { "id": 3, "name": "Anny Baker", "make":"Toyota Land Cruiser", "year":"2005"},
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "id": {
     "name": "typicode"
   }
 }
