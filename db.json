@@ -1,8 +1,8 @@
 {
   "accounts": [
-    { "id": 1, "make": "Toyota Land Cruiser","year":"2005"},
-    { "id": 2, "make": "Mercedes Benz E300","year":"2014"},
-    { "id": 3, "make": "Land Rover Expedition","year":"2005"}
+    { "id": 1, "make": "Toyota Land Cruiser", "year": "2005" },
+    { "id": 2, "make": "Mercedes Benz E300", "year": "2014" },
+    { "id": 3, "make": "Land Rover Expedition", "year": "2005" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
