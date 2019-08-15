@@ -1,8 +1,8 @@
 {
-  "account": [
-    { "id": 1, "name": "Thomas Jefferson", "make":"Land Rover Ecallade", "year":"2014"},
-    { "id": 2, "name": "William Jackson", "make":"Mercedes E300", "year":"2016"},
-    { "id": 3, "name": "Anny Baker", "make":"Toyota Land Cruiser", "year":"2005"},
+  "accounts": [
+    { "id": 1, "make": "Toyota Land Cruiser","year":"2005"},
+    { "id": 2, "make": "Mercedes Benz E300","year":"2014"},
+    { "id": 3, "make": "Land Rover Expedition","year":"2005"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
